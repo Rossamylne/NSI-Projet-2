@@ -9,7 +9,7 @@ const cookieParser = require('cookie-parser');
 
 // Definition des outils
 app.use(cookieParser());
-app.set('view engine', 'html')
+app.set('view engine', 'ejs')
 app.use(express.json());
 app.use(express.static('./views'));
 
@@ -19,6 +19,10 @@ mongoose.connect('mongodb+srv://admin:sx3TB2h2o1RfBXsf@cluster0.3wftjlf.mongodb.
 { useNewUrlParser: true, useUnifiedTopology: true })
 .then(() => console.log('Connexion à MongoDB réussie !'))
 .catch(() => console.log('Connexion à MongoDB échouée !'));
+
+app.use('/', (req, res) => {
+    res.render('index');
+});
 
 
 module.exports = app;
