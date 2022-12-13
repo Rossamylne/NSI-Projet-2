@@ -10,7 +10,7 @@ def monnaie_a_rendre(argent):
 
     Entrée ------> une somme dont on veut connaître la somme a rendre
 
-    Sortie ------> 
+    Sortie ------> la somme à rendre
     '''
     monnaies = [500, 200, 100, 50, 20, 10, 5, 2, 1]
     while argent > 0:
