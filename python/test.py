@@ -32,3 +32,4 @@ Singe 2: Onk onk! (Il sourit à Singe 1)
 
  https://cherry.img.pmdstatic.net/fit/https.3A.2F.2Fimg.2Egentside.2Ecom.2Farticle.2Fallemagne.2Forang-outang_a017ef57a135e57f85c4f38f318bc54fa1ecb969.2Ejpg/1200x675/quality/80/orang-outang.jpg
 "L'ignorance peut nous faire vivre dans l'obscurité, mais c'est en posant des questions et en explorant notre environnement que nous pouvons découvrir la vérité et élargir notre compréhension du monde qui nous entoure."
+La vérité peut être surprenante et bouleversante, mais c'est en acceptant qui nous sommes vraiment que nous pouvons trouver notre place dans le monde et vivre une vie pleine de possibilités.
