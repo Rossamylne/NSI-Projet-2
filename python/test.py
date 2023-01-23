@@ -1,29 +1,31 @@
-Acte 2 :
+(Les singes sont assis tranquillement, se reposant après l'incident avec l'orang-outan)
 
-(Un orang-outan énervé entre en scène)
+(Soudain, un scientifique entre en scène, accompagné d'un assistant)
 
-Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr!
+Scientifique : Excusez-moi, mes chers amis singes. Je suis venu vous dire une chose incroyable.
 
-Singe 1: Onk! (Il se tourne vers l'orang-outan, surpris)
+Singe 1: Onk? (Il se lève pour écouter)
 
-Singe 2: Onk onk! (Il se tient près de Singe 1, effrayé)
+Scientifique : J'ai fait des recherches sur votre ADN et je suis stupéfait de constater que vous n'êtes pas des singes ordinaires. Vous êtes en fait des humains conçus par une expérience génétique avancée !
 
-Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il tape sur sa poitrine)
+Singe 2: Onk onk! (Il est abasourdi)
 
-Singe 1: Ouga! (Il essaie de calmer l'orang-outan en lui montrant ses mains vides)
+Scientifique : Oui, c'est incroyable, mais c'est la vérité. Vous avez été créés pour vivre dans la nature, mais vous avez le potentiel de vivre comme des êtres humains normaux.
 
-Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il continue à être énervé)
+Singe 1: Ouga! (Il semble ému)
 
-Singe 2: Onk onk! (Il essaie de s'enfuir, mais l'orang-outan l'attrape)
+Scientifique : Nous allons vous donner la possibilité de vivre une vie normale, si c'est ce que vous voulez.
 
-Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il le serre fort)
+Singe 2: Onk onk! (Il hoche la tête vigoureusement)
 
-Singe 1: Onk onk ouga! (Il essaie de sauver Singe 2 en faisant des signes de paix)
+Scientifique : Très bien, alors je vais organiser tout cela. Merci de votre coopération.
 
-Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il relâche finalement Singe 2 et s'en va en hurlant)
+(Le scientifique et son assistant quittent la scène, laissant les singes se regarder avec une incrédulité mêlée d'espoir)
 
-Singe 2: Ouga ouga! (Il est soulagé et remercie Singe 1)
+Singe 1: Onk onk! (Il sourit à Singe 2)
 
-Singe 1: Onk onk! (Il lui sourit)
+Singe 2: Onk onk! (Il sourit à Singe 1)
 
-(Les singes se rassied et la pièce se termine)
+(Les singes se lèvent et quittent la scène, prêts à commencer une nouvelle vie)
+
+(La pièce se termine)
