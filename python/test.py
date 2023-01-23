@@ -29,3 +29,5 @@ Singe 2: Onk onk! (Il sourit à Singe 1)
 (Les singes se lèvent et quittent la scène, prêts à commencer une nouvelle vie)
 
 (La pièce se termine)
+
+ https://cherry.img.pmdstatic.net/fit/https.3A.2F.2Fimg.2Egentside.2Ecom.2Farticle.2Fallemagne.2Forang-outang_a017ef57a135e57f85c4f38f318bc54fa1ecb969.2Ejpg/1200x675/quality/80/orang-outang.jpg
