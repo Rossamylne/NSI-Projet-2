@@ -1,22 +1,29 @@
-Singe 1: Onk! (Il regarde autour de lui)
+Acte 2 :
 
-Singe 2: Onk onk! (Il lui répond)
+(Un orang-outan énervé entre en scène)
 
-Singe 1: Ouga! (Il montre quelque chose au loin)
+Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr!
 
-Singe 2: Onk onk! (Il regarde dans la direction indiquée)
+Singe 1: Onk! (Il se tourne vers l'orang-outan, surpris)
 
-Singe 1: Onk onk ouga! (Il semble excité)
+Singe 2: Onk onk! (Il se tient près de Singe 1, effrayé)
 
-Singe 2: Ouga ouga! (Il semble d'accord)
+Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il tape sur sa poitrine)
 
-Singe 1: Onk onk! (Il se lève et part dans la direction indiquée)
+Singe 1: Ouga! (Il essaie de calmer l'orang-outan en lui montrant ses mains vides)
 
-Singe 2: Onk onk! (Il le suit)
+Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il continue à être énervé)
 
-(Les singes quittent la scène)
+Singe 2: Onk onk! (Il essaie de s'enfuir, mais l'orang-outan l'attrape)
 
-Note: Cette pièce de théâtre est très simpliste et n'a pas de signification précise, je vous invite à développer le scénario pour une pièce plus complète.
+Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il le serre fort)
 
+Singe 1: Onk onk ouga! (Il essaie de sauver Singe 2 en faisant des signes de paix)
 
+Orang-outan : Grrrrrrrrrrrrrrrrrrrrrrr! (Il relâche finalement Singe 2 et s'en va en hurlant)
 
+Singe 2: Ouga ouga! (Il est soulagé et remercie Singe 1)
+
+Singe 1: Onk onk! (Il lui sourit)
+
+(Les singes se rassied et la pièce se termine)
